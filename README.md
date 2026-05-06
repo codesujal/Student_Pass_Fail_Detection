@@ -3,9 +3,6 @@
 Output:
 ![Output.](/output.png)
 
-Diagram:
-![Diagram.](/diagram.png)
-
 This project predicts whether a student will pass or fail based on study hours and attendance using machine learning models.
 
 ### 1. Import Libraries
