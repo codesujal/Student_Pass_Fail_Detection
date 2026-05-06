@@ -1,5 +1,8 @@
 ## Student Pass-Fail Detection (Machine Learning Project)
 
+Output:
+![Output.](/output.png)
+
 Diagram:
 ![Diagram.](/diagram.png)
 
